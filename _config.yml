@@ -1,5 +1,4 @@
-# Permalinks
-#permalink:           pretty
+
 
 # Setup
 title:               Brendan Huynh
@@ -17,9 +16,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Brendan Huynh
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             brendanzhuynh@gmail.com
 
 # Custom vars
 version:             2.0.0
